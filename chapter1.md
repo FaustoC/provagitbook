@@ -1,8 +1,6 @@
 # First Chapter
 
+**Buildare** _i_ ~~musei~~!![](/assets/smalldesktop.png)Ora...
 
-
-![](/assets/smalldesktop.png)
-
-
+Proviamo a capire!
 
